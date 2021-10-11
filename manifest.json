@@ -1,9 +1,7 @@
 {
  "start_url": "index.htm",
- "description": "FAÇA UM TOUR 360 GRAUS ",
- "background_color": "#FFFFFF",
  "name": "HISTORY CARS",
- "theme_color": "#FFFFFF",
+ "description": "FAÇA UM TOUR 360 GRAUS ",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +39,7 @@
    "sizes": "64x64"
   }
  ],
- "display": "fullscreen"
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF"
 }
